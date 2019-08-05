@@ -1,0 +1,3 @@
+[submodule "cairo_jpg"]
+	path = cairo_jpg
+	url = https://github.com/rahra/cairo_jpg.git
